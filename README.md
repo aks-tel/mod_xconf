@@ -29,6 +29,4 @@
  - Lots of DTMF commands and easy way to extend them (see commands.c) 
  - VAD/AGC/CNG (maybe will appear echo suppression) 
 
-### Related links
- - [Performance test](http://akscf.org/?page=projects/mod_xconf/perftest)
 
